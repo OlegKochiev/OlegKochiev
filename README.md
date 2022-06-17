@@ -6,6 +6,9 @@
   <a href="https://t.me/kosma033">
     <img src="https://img.shields.io/badge/-Telegram-white?logo=telegram&style=for-the-badge">
   </a>
+  <a href="https://hh.ru/">
+    <img src="https://img.shields.io/badge/-HeadHunter-red?logo=HeadHunter&style=for-the-badge">
+  </a>
 </div>
 
 
