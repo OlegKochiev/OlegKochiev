@@ -2,6 +2,13 @@
   <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="150"/>
 </div>
 
+<div>
+  <a href="https://t-do.ru/kosma">
+    <img src="https://img.shields.io/badge/-Telegram-white?logo=telegram&style=for-the-badge">
+  </a>
+</div>
+
+
 ### Hi there 👋
 
 <!--
