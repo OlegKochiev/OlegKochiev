@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <a href="https://t-do.ru/kosma">
+  <a href="https://t.me/kosma033">
     <img src="https://img.shields.io/badge/-Telegram-white?logo=telegram&style=for-the-badge">
   </a>
 </div>
