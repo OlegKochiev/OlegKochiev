@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="150"/>
 
   <div id="badges">
-  <a href="https://t.me/kosma033">
+  <a href="https://t.me/kosma033" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-white?logo=telegram&style=for-the-badge">
   </a>
     
-  <a href="https://hh.ru/">
+  <a href="https://hh.ru/" target="_blank">
     <img src="https://img.shields.io/badge/-HeadHunter-red?logo=HeadHunter&style=for-the-badge">
   </a>
 </div>
