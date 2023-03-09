@@ -3,8 +3,8 @@
 </div>
 
 <div id="about_me" align="center">
-<h2>Hi there 👋</h2>
-<h3>I'm Oleg - Junior Frontend Developer 👨‍💻</h3>
+<h2 align="left">Hi there 👋</h2>
+<h3>I'm Oleg - Front-end Developer 👨‍💻</h3>
 <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="150" />
 <hr />
 <p align="left">I am developing user interfaces using the ReactJS library</p>
@@ -19,12 +19,11 @@
   <img src="./public/telegram.svg" height="32" alt="telegram" />
 </a>
 <a href="mailto: olegkochiev19@gmail.com">
-  <img src="./public/email.svg" height="32" alt="email" />
+  <img src="./public/email2.svg" height="32" alt="email" />
 </a>
 </div>
 <div id="technical_skills">
 <h3>💼 Technical skills:</h3>
-<br />
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![reactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
