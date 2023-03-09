@@ -3,27 +3,18 @@
 </div>
 
 <div id="about_me" align="center">
-<h2 align="left">Hi there 👋</h2>
-<h3>I'm Oleg - Front-end Developer 👨‍💻</h3>
-<img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="150" />
-<hr />
+<br/>
+<h3>Hi there 👋 I'm Oleg - Front-end Developer 👨‍💻</h3>
+<br/>
 <p align="left">I am developing user interfaces using the ReactJS library</p>
 </div>
 
-<div id="contacts">
-<h3>🔗 You can contact me:</h3>
-<a href="https://www.linkedin.com/in/oleg-kochiev/">
-  <img src="./public/linkedin.svg" height="32" alt="linkedin" />
-</a>
-<a href="https://t.me/kosma033">
-  <img src="./public/telegram.svg" height="32" alt="telegram" />
-</a>
-<a href="mailto: olegkochiev19@gmail.com">
-  <img src="./public/email2.svg" height="32" alt="email" />
-</a>
-</div>
+---
+
 <div id="technical_skills">
 <h3>💼 Technical skills:</h3>
+
+<br>
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![reactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -51,4 +42,20 @@
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
+---
+
+<div id="contacts">
+<h3>🔗 You can contact me:</h3>
+<br>
+<a href="https://www.linkedin.com/in/oleg-kochiev/">
+  <img src="./public/linkedin.svg" height="32" alt="linkedin" />
+</a>
+<a href="https://t.me/kosma033">
+  <img src="./public/telegram.svg" height="32" alt="telegram" />
+</a>
+<a href="mailto: olegkochiev19@gmail.com">
+  <img src="./public/email2.svg" height="32" alt="email" />
+</a>
 </div>
