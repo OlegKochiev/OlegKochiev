@@ -49,13 +49,13 @@
 <div id="contacts">
 <h3>🔗 You can contact me:</h3>
 <br>
-<a href="https://www.linkedin.com/in/oleg-kochiev/">
-  <img src="./public/linkedin.svg" height="32" alt="linkedin" />
+<a href="https://www.linkedin.com/in/oleg-kochiev/" target="_blank">
+  <img src="./public/linkedin.svg" height="32" width="45" alt="linkedin" />
 </a>
-<a href="https://t.me/kosma033">
-  <img src="./public/telegram.svg" height="32" alt="telegram" />
+<a href="https://t.me/kosma033" target="_blank">
+  <img src="./public/telegram.svg" height="32" width="45" alt="telegram" />
 </a>
-<a href="mailto: olegkochiev19@gmail.com">
-  <img src="./public/email2.svg" height="32" alt="email" />
+<a href="mailto: olegkochiev19@gmail.com" target="_blank">
+  <img src="./public/email2.svg" height="32" width="45" alt="email" />
 </a>
 </div>
