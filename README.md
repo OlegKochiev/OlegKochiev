@@ -4,9 +4,9 @@
 
 <div id="about_me" align="center">
 <br/>
-<h3>Hi there 👋 I'm Oleg - Front-end Developer 👨‍💻</h3>
+<h3>Hi there 👋 I'm Oleg - Frontend Developer 👨‍💻</h3>
 <br/>
-<p align="left">I am developing user interfaces using the ReactJS library</p>
+<p align="left">I develop user interfaces using modern technologies</p>
 </div>
 
 ---
