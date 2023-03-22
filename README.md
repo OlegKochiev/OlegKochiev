@@ -66,6 +66,8 @@
 <h3>🏆 Achivements:</h3>
   
 ![image](https://www.codewars.com/users/oleg_kochiev/badges/large)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olegkochiev&show_icons=true&theme=tokyonight)
 
 </div>
 
