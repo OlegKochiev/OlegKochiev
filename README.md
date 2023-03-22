@@ -67,7 +67,7 @@
   
 ![image](https://www.codewars.com/users/oleg_kochiev/badges/large)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olegkochiev&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olegkochiev&show_icons=true&theme=tokyonight&count_private=true)
 
 </div>
 
