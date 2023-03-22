@@ -60,10 +60,12 @@
 </a>
 </div>
 
+---
+
 <div id="achivements">
 <h3>🏆 Achivements:</h3>
   
-![image](https://www.codewars.com/users/oleg kochiev/badges/large)
+![image](https://www.codewars.com/users/oleg_kochiev/badges/large)
 
 </div>
 
