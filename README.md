@@ -69,5 +69,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olegkochiev&show_icons=true&theme=tokyonight&count_private=true)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=olegkochiev&theme=dark&border_radius=4)](https://git.io/streak-stats)
+  
 </div>
 
